@@ -4,6 +4,9 @@ using System.Text.RegularExpressions;
 
 namespace Day3.Extensions
 {
+    // this class was found here: https://blogs.msdn.microsoft.com/simonince/2009/07/09/string-unformat-ive-created-a-monster/
+
+
     public static class StringExtensions
     {
         #region Cached Compiled Regular Expressions
